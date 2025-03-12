@@ -5,7 +5,7 @@ Este repositório contém as documentações dos projetos da KHALI, incluindo ba
 ## Sumário das Aplicações
 
 <details open>
-  <summary><strong>API5</strong></summary>
+  <summary><strong>API6</strong></summary>
 
 - [Backlog do produto](./product-backlog.md)
 - [Requisitos do projeto](./project-requirements.md)
