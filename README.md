@@ -9,7 +9,7 @@ Este repositório contém as documentações dos projetos da KHALI, incluindo ba
 
 - [Backlog do produto](./product-backlog.md)
 - [Requisitos do projeto](./project-requirements.md)
-- [Arquitetura banco de dados não relacional](./mongo-doc.mdd)
+- [Arquitetura banco de dados não relacional](./mongo-doc.md)
 - [Arquitetura banco de dados relaciona](./postgres-doc.pdf)
 <!-- - [Perguntas ao cliente](./api5/customer-questionnaire.md)
 - [Documentação do banco de dados](./api5/bd_documentation.pdf)
