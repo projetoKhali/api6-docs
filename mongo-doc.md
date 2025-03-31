@@ -3,6 +3,8 @@
 ## Introdução
 Este documento descreve a estrutura do banco de dados MongoDB utilizado no projeto de monitoramento de reflorestamento. A base de dados possui três coleções principais: `species_collection`, `plots_collection` e `yield_collection`. Cada uma dessas coleções possui um esquema de validação definido para garantir a integridade dos dados.
 
+link da base: https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
+
 ## Coleções e Estruturas
 
 ![mongo (1)](https://github.com/user-attachments/assets/22c6110f-7b4d-4687-a45a-0fffcb6efd97)
