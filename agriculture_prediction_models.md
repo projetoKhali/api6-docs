@@ -1,5 +1,5 @@
 # Documento Técnico dos Modelos de Previsão Agrícola
-Link para keggle com a contrução do modelo: https://www.kaggle.com/code/marcosmalaquias/api6-condictional-prevision/edit/run/235061774
+Link para kaggle com a contrução do modelo: https://www.kaggle.com/code/marcosmalaquias/api6-condictional-prevision/edit/run/235061774
 ## 1. Introdução
 O projeto visa a construção de modelos de machine learning para previsão de variáveis importantes no setor agrícola brasileiro, com base em dados históricos de produção, clima e insumos (fertilizantes e pesticidas).
 
